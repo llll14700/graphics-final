@@ -2,7 +2,7 @@
 
 * **학번:** 2020204013
 * **이름:** 송승화
-* **실시간 게임 구동 링크 (GitHub Pages):** [여기 클릭하여 웹에서 즉시 실행](https://llll14700.github.io/graphics-final/graphics-final/index.html)
+* **실시간 게임 구동 링크 (GitHub Pages):** [여기 클릭하여 웹에서 즉시 실행](https://llll14700.github.io/graphics-final/graphics-final/graphics-final/index.html)
 ---
 
 ## 1. 프로젝트 기획 및 게임 내용 설명
